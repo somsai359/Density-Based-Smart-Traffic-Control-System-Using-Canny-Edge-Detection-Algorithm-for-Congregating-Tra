@@ -8,7 +8,7 @@ As the problem of urban traffic congestion intensifies, there is a pressing need
 
 **Output**:
 
-**Comparing Captured image and referencing image**.
+**'''Comparing Captured image and referencing image'''**.
 
 ![image](https://user-images.githubusercontent.com/76832603/219103225-5f84dfb9-6ed6-4690-9526-c1dc9a67881a.png)
 
