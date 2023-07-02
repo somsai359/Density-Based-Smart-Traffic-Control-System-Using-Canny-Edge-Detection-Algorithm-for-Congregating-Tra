@@ -10,8 +10,11 @@ As the problem of urban traffic congestion intensifies, there is a pressing need
 
 
 **Uploading traffic image  and analyzing**
+![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/38d49693-f768-487a-915f-0923e94f58ff)
 
-![image](https://user-images.githubusercontent.com/76832603/220696757-8e1008ad-783d-48bb-94f5-194f2c9a962a.png)
+
+![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/46fdb7b9-c226-4495-91a7-62a350eb56a5)
+
 
 **'''Comparing Captured image and referencing image'''**.
 
@@ -19,11 +22,11 @@ As the problem of urban traffic congestion intensifies, there is a pressing need
 
 **White Pixel Count**
 
-![image](https://user-images.githubusercontent.com/76832603/220696983-a4558aba-6428-49bc-947d-38d6ff49a63f.png)
+![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/90c1d1e4-7dc5-434f-ab72-e38f19983c18)
 
 **Time for Green Light**
 
-![image](https://user-images.githubusercontent.com/76832603/220697086-74c42f25-9349-4318-b4f1-09c7c5c4c0b2.png)
+![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/9b19d7aa-7229-407a-a2ea-c38211b34bd6)
 
 
 
