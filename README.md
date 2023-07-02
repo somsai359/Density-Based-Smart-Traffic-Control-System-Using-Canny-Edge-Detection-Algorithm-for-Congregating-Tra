@@ -22,7 +22,7 @@ As the problem of urban traffic congestion intensifies, there is a pressing need
 
 **'''Comparing Captured image and referencing image'''**.
 
-![image](https://user-images.githubusercontent.com/76832603/219103225-5f84dfb9-6ed6-4690-9526-c1dc9a67881a.png)
+![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/3532e3c3-e8c4-45b3-9872-c5b1253293a1)
 
 **White Pixel Count**
 
