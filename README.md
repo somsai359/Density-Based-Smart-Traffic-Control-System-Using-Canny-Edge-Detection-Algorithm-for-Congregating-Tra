@@ -10,10 +10,14 @@ As the problem of urban traffic congestion intensifies, there is a pressing need
 
 
 **Uploading traffic image  and analyzing**
-![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/38d49693-f768-487a-915f-0923e94f58ff)
-
 
 ![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/46fdb7b9-c226-4495-91a7-62a350eb56a5)
+
+
+
+
+![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/38d49693-f768-487a-915f-0923e94f58ff)
+
 
 
 **'''Comparing Captured image and referencing image'''**.
